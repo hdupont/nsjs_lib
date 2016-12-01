@@ -1,6 +1,6 @@
 # nsjs_lib
 
-Fonctions utiles pour les différents projets.
+Copié/collé à transformer en bibliothèque.
 
 ```javascript
 function appendUi(appNode, appUiContainer) {
